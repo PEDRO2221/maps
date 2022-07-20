@@ -1,0 +1,16 @@
+agm-map {
+    position: relative;
+    height: 100%;
+    width: 100%;
+   }
+   .container-fluid{
+    align-items: center;
+    align-content: center;
+   }
+   .card {
+    right: -15%;
+    width: 70%;
+    position: relative;
+    top: 46px;
+    height: 600px;
+}
