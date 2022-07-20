@@ -14,7 +14,7 @@ import { HttpClientModule } from '@angular/common/http';
     BrowserModule,
     AppRoutingModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyCSPqmk39jpyxiq8nopT7zZP2HYkAHjkNw'
+      apiKey: ''
     }),
     HttpClientModule
   ],
